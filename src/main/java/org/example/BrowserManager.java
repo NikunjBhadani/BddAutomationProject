@@ -1,14 +1,10 @@
 package org.example;
 
-
-import org.openqa.selenium.Cookie;
 import org.openqa.selenium.chrome.ChromeDriver;
 import org.openqa.selenium.firefox.FirefoxDriver;
-
 import org.openqa.selenium.ie.InternetExplorerDriver;
 
 
-import java.util.Set;
 import java.util.concurrent.TimeUnit;
 
 public class BrowserManager extends Util {//BrowserManager is sub class of Util class
